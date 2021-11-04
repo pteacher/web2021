@@ -1,0 +1,16 @@
+.main-header {
+    background-image: url("https://wallpapercave.com/wp/wp2700080.jpg");
+    background-size: cover;
+    height: 900px;
+}
+
+.about {
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+section {
+    padding: 100px 50px;
+    text-align: center;
+    background-color: #0c5460;
+}
